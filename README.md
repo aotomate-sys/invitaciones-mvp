@@ -57,3 +57,6 @@ create policy "anon_insert_rsvps" on public.rsvps for insert
 - Cambia colores/tipografías en `globals.css` o extiende Tailwind en `tailwind.config.ts`.
 - Sustituye las portadas y galería en `/public`.
 - Agrega bloque de **QR** y **muro de mensajes** en futuras iteraciones.
+- 
+- # Forzar redeploy sin cache
+
